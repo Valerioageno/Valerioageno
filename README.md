@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm an Italian building manager switched to frontend developer by passion.
+
+My favourite tecnologies are Javascript & Rust and I am interested in blockchains.
+
+### Working on 🚧
+
+I'm currently working on <a href="https://github.com/Valerioageno/ssr-rs">ssr_rs</a> to improve the connection between javascript and rust by enabling server side rendering on rust backends.
+
+
 <!--
 **Valerioageno/Valerioageno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
