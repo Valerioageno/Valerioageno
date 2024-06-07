@@ -1,15 +1,14 @@
 # Ciao 👋
 
-I'm an Italian building manager switched to frontend developer by passion.
+I’m an frontent engineer by day and a random things student by night.
 
-My favourite tecnologies are Typescript & Rust and I am also interested about WebAssembly.
+My favourite tecnologies are Typescript & Rust and I am also interested on WebAssembly.
 
-In love with 3D tecnologies and <a href="https://github.com/mrdoob/three.js">Three.js</a>.
+I’m also passionate about 3D modelling and [Three.js](https://github.com/mrdoob/three.js)
 
-### Working on 🚧
+## Working on 🚧
 
-I'm currently working on <a href="https://github.com/Valerioageno/ssr-rs">ssr_rs</a> to improve the connection between Javascript and Rust to enalbe server side rendering on Rust's backends and on its direct implementation <a href="https://github.com/Valerioageno/reactix">Reactix</a>.
-
+I'm currently working on [ssr_rs](https://github.com/Valerioageno/ssr-rs) which is a rust crate that allows JS code execution within rust programs and on [tuono](https://github.com/Valerioageno/tuono) that is a fullstack react framework with the backend written in rust for crazy multi-thread performance! (yeah it uses `ssr_rs`)
 
 <!--
 **Valerioageno/Valerioageno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
