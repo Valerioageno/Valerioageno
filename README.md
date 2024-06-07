@@ -1,10 +1,6 @@
 # Ciao 👋
 
-I’m an frontent engineer by day and a random things student by night.
-
-My favourite tecnologies are Typescript & Rust and I am also interested on WebAssembly.
-
-I’m also passionate about 3D modelling and [Three.js](https://github.com/mrdoob/three.js)
+I’m an frontent engineer by day and a random things student by night. My favourite tecnologies are Typescript & Rust and I am also interested on WebAssembly. I’m also passionate about 3D modelling and [Three.js](https://github.com/mrdoob/three.js)
 
 ## Working on 🚧
 
