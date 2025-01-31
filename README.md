@@ -1,26 +1,11 @@
 # Ciao 👋
 
-I’m an frontent engineer by day and a random things student by night. 
+I’m an Italian software engineer passionate about the web. 
 
-My favourite tecnologies are Typescript & Rust and I am also interested on WebAssembly. 
+I like trying to mix things together and see what happens - now is the time for [tuono](https://github.com/tuono-labs/tuono)⚡️full stack web framework.
 
-I’m also passionate about 3D modelling and [Three.js](https://github.com/mrdoob/three.js)
+I like to write code with Typescript, Rust and WebAssembly.
 
-## Working on 🚧
+Offline I enjoy surfing 🏄‍♂️ 🌊
 
-I'm currently working on [ssr_rs](https://github.com/Valerioageno/ssr-rs) which is a rust crate that allows JS code execution within rust programs and on [tuono](https://github.com/Valerioageno/tuono) that is a fullstack react framework with the backend written in rust for crazy multi-thread performance! (yeah it uses `ssr_rs`)
-
-<!--
-**Valerioageno/Valerioageno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always available to chat on X [@valerioageno](https://x.com/valerioageno)
